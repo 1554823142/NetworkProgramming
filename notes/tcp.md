@@ -311,5 +311,7 @@ TCP的三次握手:
 - FIN: 断开连接
 - B向主机传递了两次ACK 5001, 因为第二次FIN包中的ACK 5001是因为接受ACK消息后为接受数据而重传的
 
+完整的过程以及函数对应:
 
+<img src="assets/v2-826e9a298f77fa71761b3f9bf85ebac3_r.jpg" alt="img" style="zoom: 50%;" />
 
